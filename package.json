@@ -1,0 +1,26 @@
+{
+  "name": "react-native-bus-date-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busmobileapp/react-native-bus-date-input.git"
+  },
+  "author": "busmobileapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busmobileapp/react-native-bus-date-input/issues"
+  },
+  "homepage": "https://github.com/busmobileapp/react-native-bus-date-input#readme",
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "react-native-calendars": "^1.22.0",
+    "react-native-device-info": "^0.26.4"
+  }
+}

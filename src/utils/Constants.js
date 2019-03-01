@@ -1,0 +1,1 @@
+export const NORWEGIAN_CULTURE = 'nb-NO';
